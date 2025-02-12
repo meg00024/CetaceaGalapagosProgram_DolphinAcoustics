@@ -93,3 +93,4 @@ plt.title('Summed Column Activity')
 plt.xlabel('Time (min)')
 plt.ylabel('Sum of Activity')
 plt.show()
+
